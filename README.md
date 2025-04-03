@@ -1,2 +1,2 @@
 # MovableCharacter
-Animation Editor made to animate game characters. Made with godot engine
+Movable Character is a Animation Editor with features to animate and edit game characters animations.
